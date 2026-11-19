@@ -269,7 +269,7 @@ Or connect the repository on [vercel.com/new](https://vercel.com/new):
 * **Project**: **AirLoop (Challenge 6: Urban Air Quality Assistant)**
 * **Developer**: **Kishan Nishad**
 * **GitHub**: [@Pikachu0004](https://github.com/Pikachu0004)
-* **Repository**: [https://github.com/Pikachu0004/air.git](https://github.com/Pikachu0004/Airloop.git)
+* **Repository**: [https://github.com/Pikachu0004/Airloop.git](https://github.com/Pikachu0004/Airloop.git)
 
 ---
 
